@@ -2,6 +2,8 @@ Next.jsのチュートリアルを元にブログちっくなサンプルアプ�
 
 デプロイはVercelでやってます。
 
+[URL](https://nextjs-blog-tutorial-peach-eta.vercel.app/)
+
 ### 感想
 - SSGについて少し理解した
   - ブログなどの準静的コンテンツ配信に強いのかな？
